@@ -5,7 +5,7 @@ import { Toaster } from 'react-hot-toast';
 
 // Pages
 import Login from './pages/Login';
-import Register from './pages/register';
+import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
 
 // Components
