@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://localhost:5000/api',
+    baseURL: 'https://noteappbackend-6o6u.onrender.com/api',
 });
 
 // Interceptor to add Authorization header
